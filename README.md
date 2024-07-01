@@ -5,6 +5,6 @@ Prerequisites:
  o Qt4  
  o ffmpeg  
 
-Compile as: 
- qmake 
- make (or nmake) 
+Compile as:  
+ qmake  
+ make (or nmake)  
